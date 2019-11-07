@@ -1,0 +1,501 @@
+borough,neighbourhood,room_type,price
+Brooklyn,Kensington,Private,149
+Manhattan,Midtown,Home,225
+Manhattan,Harlem,Private,150
+Brooklyn,Clinton Hill,Home,89
+Manhattan,East Harlem,Home,80
+Manhattan,Murray Hill,Home,200
+Brooklyn,Bedford-Stuyvesant,Private,60
+Manhattan,Hell's Kitchen,Private,79
+Manhattan,Upper West Side,Private,79
+Manhattan,Chinatown,Home,150
+Manhattan,Upper West Side,Home,135
+Manhattan,Hell's Kitchen,Private,85
+Brooklyn,South Slope,Private,89
+Manhattan,Upper West Side,Private,85
+Manhattan,West Village,Home,120
+Brooklyn,Williamsburg,Home,140
+Brooklyn,Fort Greene,Home,215
+Manhattan,Chelsea,Private,140
+Brooklyn,Crown Heights,Home,99
+Manhattan,East Harlem,Home,190
+Brooklyn,Williamsburg,Home,299
+Brooklyn,Park Slope,Private,130
+Brooklyn,Park Slope,Private,80
+Brooklyn,Park Slope,Private,110
+Brooklyn,Bedford-Stuyvesant,Home,120
+Brooklyn,Windsor Terrace,Private,60
+Manhattan,Inwood,Private,80
+Manhattan,Hell's Kitchen,Home,150
+Manhattan,Inwood,Private,44
+Manhattan,East Village,Home,180
+Manhattan,Harlem,Private,50
+Manhattan,Harlem,Private,52
+Brooklyn,Greenpoint,Private,55
+Manhattan,Harlem,Private,50
+Brooklyn,Bedford-Stuyvesant,Private,70
+Brooklyn,South Slope,Private,89
+Brooklyn,Bedford-Stuyvesant,Private,35
+Brooklyn,Bushwick,Home,85
+Brooklyn,Flatbush,Private,150
+Manhattan,Lower East Side,Shared room,40
+Manhattan,East Village,Private,68
+Brooklyn,South Slope,Home,120
+Brooklyn,Fort Greene,Private,120
+Manhattan,Upper West Side,Private,135
+Manhattan,Harlem,Home,150
+Brooklyn,Prospect-Lefferts Gardens,Home,150
+Queens,Long Island City,Private,130
+Brooklyn,Bedford-Stuyvesant,Home,110
+Brooklyn,Bedford-Stuyvesant,Home,115
+Brooklyn,Fort Greene,Private,80
+Brooklyn,Bedford-Stuyvesant,Private,80
+Manhattan,Upper West Side,Home,151
+Brooklyn,Williamsburg,Home,228
+Brooklyn,Greenpoint,Home,144
+Manhattan,Kips Bay,Home,200
+Brooklyn,Williamsburg,Home,150
+Manhattan,Lower East Side,Private,110
+Manhattan,Hell's Kitchen,Private,69
+Brooklyn,Greenpoint,Private,49
+Manhattan,SoHo,Home,180
+Brooklyn,Williamsburg,Private,80
+Manhattan,Chelsea,Home,375
+Manhattan,Upper East Side,Home,250
+Brooklyn,Prospect Heights,Home,200
+Brooklyn,Clinton Hill,Private,55
+Manhattan,Hell's Kitchen,Private,52
+Brooklyn,Park Slope,Home,225
+Manhattan,East Village,Private,80
+Brooklyn,Williamsburg,Home,275
+Manhattan,East Village,Private,99
+Manhattan,East Harlem,Home,225
+Manhattan,East Village,Home,230
+Manhattan,Hell's Kitchen,Private,51
+Manhattan,Washington Heights,Private,65
+Brooklyn,Clinton Hill,Private,105
+Manhattan,East Village,Home,190
+Manhattan,Upper East Side,Private,200
+Queens,Woodside,Private,70
+Brooklyn,Fort Greene,Private,95
+Manhattan,Chelsea,Private,150
+Brooklyn,Williamsburg,Private,145
+Manhattan,Harlem,Home,110
+Manhattan,Lower East Side,Home,285
+Brooklyn,Flatbush,Home,130
+Manhattan,Lower East Side,Private,94
+Brooklyn,Brooklyn Heights,Home,800
+Brooklyn,Williamsburg,Home,105
+Manhattan,East Village,Private,60
+Manhattan,East Village,Private,50
+Brooklyn,Williamsburg,Private,85
+Brooklyn,Bushwick,Private,65
+Brooklyn,Prospect Heights,Home,131
+Brooklyn,Clinton Hill,Private,98
+Brooklyn,Prospect Heights,Home,250
+Brooklyn,Williamsburg,Home,100
+Brooklyn,Bushwick,Home,105
+Manhattan,Upper West Side,Home,140
+Manhattan,Harlem,Private,89
+Manhattan,Chelsea,Private,98
+Brooklyn,Bedford-Stuyvesant,Home,125
+Manhattan,Harlem,Private,60
+Brooklyn,Carroll Gardens,Home,175
+Manhattan,Washington Heights,Private,65
+Manhattan,West Village,Home,500
+Brooklyn,Williamsburg,Private,101
+Brooklyn,Park Slope,Home,220
+Brooklyn,Bedford-Stuyvesant,Home,125
+Brooklyn,Williamsburg,Home,80
+Manhattan,Harlem,Private,100
+Brooklyn,Gowanus,Home,200
+Manhattan,Hell's Kitchen,Private,59
+Brooklyn,Clinton Hill,Private,125
+Manhattan,East Village,Home,140
+Brooklyn,South Slope,Home,120
+Manhattan,East Village,Home,350
+Manhattan,Kips Bay,Home,199
+Brooklyn,Williamsburg,Home,325
+Manhattan,Upper West Side,Home,235
+Manhattan,East Village,Home,225
+Brooklyn,South Slope,Private,99
+Manhattan,Harlem,Home,170
+Brooklyn,South Slope,Home,400
+Manhattan,Upper West Side,Home,170
+Manhattan,East Village,Home,100
+Brooklyn,Prospect-Lefferts Gardens,Private,75
+Brooklyn,Williamsburg,Private,90
+Manhattan,Upper East Side,Home,150
+Manhattan,Washington Heights,Private,85
+Brooklyn,Bedford-Stuyvesant,Private,70
+Manhattan,Harlem,Home,120
+Brooklyn,Clinton Hill,Private,89
+Manhattan,East Village,Home,185
+Brooklyn,Greenpoint,Private,50
+Manhattan,Lower East Side,Home,105
+Manhattan,Hell's Kitchen,Private,130
+Manhattan,West Village,Home,115
+Brooklyn,Flatlands,Private,77
+Brooklyn,Clinton Hill,Private,76
+Brooklyn,Bedford-Stuyvesant,Home,125
+Brooklyn,Clinton Hill,Private,135
+Brooklyn,Greenpoint,Home,250
+Brooklyn,Williamsburg,Home,199
+Brooklyn,Cobble Hill,Home,140
+Queens,Flushing,Private,140
+Brooklyn,Bedford-Stuyvesant,Home,115
+Brooklyn,Williamsburg,Home,160
+Brooklyn,Williamsburg,Home,195
+Manhattan,East Village,Home,195
+Brooklyn,Williamsburg,Private,80
+Brooklyn,Fort Greene,Private,44
+Manhattan,West Village,Private,156
+Brooklyn,Prospect Heights,Private,85
+Brooklyn,Williamsburg,Private,125
+Brooklyn,Prospect Heights,Home,115
+Manhattan,East Harlem,Private,69
+Manhattan,West Village,Home,225
+Brooklyn,Williamsburg,Home,125
+Manhattan,Upper East Side,Home,219
+Brooklyn,Boerum Hill,Home,475
+Manhattan,Upper East Side,Home,99
+Brooklyn,Williamsburg,Private,69
+Queens,Sunnyside,Private,79
+Brooklyn,Bedford-Stuyvesant,Home,135
+Brooklyn,DUMBO,Private,250
+Manhattan,Upper East Side,Home,250
+Brooklyn,Gowanus,Home,250
+Manhattan,Harlem,Home,80
+Brooklyn,Clinton Hill,Private,70
+Brooklyn,Carroll Gardens,Home,165
+Staten Island,St. George,Private,70
+Brooklyn,Bushwick,Private,50
+Bronx,Highbridge,Private,40
+Brooklyn,Williamsburg,Home,150
+Manhattan,East Village,Private,125
+Manhattan,Financial District,Home,196
+Brooklyn,Fort Greene,Private,110
+Manhattan,West Village,Home,170
+Manhattan,Harlem,Home,165
+Manhattan,West Village,Home,150
+Manhattan,Harlem,Home,100
+Brooklyn,Fort Greene,Private,65
+Queens,Ridgewood,Home,350
+Manhattan,Morningside Heights,Private,99
+Brooklyn,Williamsburg,Home,200
+Brooklyn,Park Slope,Home,150
+Brooklyn,Bedford-Stuyvesant,Private,90
+Brooklyn,Prospect Heights,Private,120
+Manhattan,Upper East Side,Private,75
+Brooklyn,Bedford-Stuyvesant,Home,175
+Manhattan,Chelsea,Home,125
+Manhattan,Hell's Kitchen,Home,275
+Manhattan,Lower East Side,Home,299
+Brooklyn,South Slope,Home,135
+Manhattan,Upper East Side,Private,130
+Manhattan,Lower East Side,Private,83
+Manhattan,Chelsea,Private,123
+Queens,Jamaica,Private,55
+Manhattan,Hell's Kitchen,Home,195
+Brooklyn,Bedford-Stuyvesant,Private,80
+Queens,Middle Village,Home,98
+Queens,Ridgewood,Private,140
+Queens,Middle Village,Home,265
+Brooklyn,Williamsburg,Home,249
+Manhattan,Hell's Kitchen,Shared room,105
+Manhattan,Harlem,Private,200
+Brooklyn,Prospect Heights,Private,100
+Manhattan,Harlem,Home,121
+Bronx,Highbridge,Private,45
+Manhattan,East Harlem,Private,100
+Brooklyn,Williamsburg,Home,140
+Brooklyn,Bedford-Stuyvesant,Private,71
+Manhattan,NoHo,Private,130
+Manhattan,West Village,Home,199
+Brooklyn,Williamsburg,Private,69
+Brooklyn,Fort Greene,Private,68
+Manhattan,East Village,Home,130
+Brooklyn,Greenpoint,Home,195
+Manhattan,Harlem,Private,64
+Queens,Ditmars Steinway,Home,140
+Brooklyn,Cobble Hill,Home,159
+Manhattan,East Village,Home,189
+Manhattan,Hell's Kitchen,Home,250
+Manhattan,East Village,Home,239
+Manhattan,Flatiron District,Home,305
+Manhattan,Harlem,Home,155
+Manhattan,Harlem,Private,60
+Brooklyn,Windsor Terrace,Private,135
+Manhattan,Roosevelt Island,Private,120
+Manhattan,Lower East Side,Home,150
+Queens,Ridgewood,Home,140
+Brooklyn,Greenpoint,Home,135
+Manhattan,Chinatown,Home,250
+Manhattan,Midtown,Home,250
+Manhattan,SoHo,Home,500
+Manhattan,Greenwich Village,Home,225
+Manhattan,East Harlem,Home,125
+Manhattan,Harlem,Private,92
+Manhattan,Harlem,Private,175
+Manhattan,East Village,Home,99
+Manhattan,Upper West Side,Home,195
+Manhattan,East Harlem,Home,140
+Manhattan,Little Italy,Home,135
+Manhattan,Chelsea,Home,500
+Manhattan,Harlem,Private,80
+Manhattan,Chinatown,Private,120
+Manhattan,Midtown,Home,110
+Brooklyn,East Flatbush,Home,65
+Manhattan,East Village,Home,130
+Brooklyn,Bushwick,Home,99
+Staten Island,Tompkinsville,Private,36
+Staten Island,Tompkinsville,Private,37
+Staten Island,Tompkinsville,Private,37
+Manhattan,East Village,Home,175
+Manhattan,Chelsea,Home,205
+Brooklyn,Greenpoint,Home,285
+Brooklyn,Williamsburg,Private,59
+Staten Island,Tompkinsville,Private,36
+Queens,Astoria,Home,99
+Brooklyn,Kensington,Private,39
+Brooklyn,Park Slope,Private,60
+Bronx,Clason Point,Private,90
+Bronx,Eastchester,Home,105
+Brooklyn,Bedford-Stuyvesant,Home,135
+Manhattan,East Village,Home,390
+Brooklyn,Bedford-Stuyvesant,Private,70
+Manhattan,Inwood,Private,75
+Brooklyn,Williamsburg,Private,60
+Manhattan,East Village,Home,200
+Brooklyn,Crown Heights,Private,100
+Brooklyn,Bedford-Stuyvesant,Private,70
+Brooklyn,Crown Heights,Private,110
+Brooklyn,Crown Heights,Private,60
+Manhattan,Little Italy,Home,90
+Manhattan,East Village,Private,68
+Manhattan,Upper West Side,Home,115
+Brooklyn,Bedford-Stuyvesant,Private,75
+Brooklyn,Williamsburg,Private,60
+Manhattan,East Village,Home,129
+Brooklyn,Williamsburg,Home,130
+Brooklyn,Williamsburg,Home,95
+Manhattan,Harlem,Private,75
+Brooklyn,Park Slope,Home,175
+Brooklyn,Carroll Gardens,Home,190
+Brooklyn,Crown Heights,Private,49
+Manhattan,East Village,Home,212
+Manhattan,Lower East Side,Private,95
+Brooklyn,Williamsburg,Home,140
+Manhattan,Harlem,Home,135
+Brooklyn,Park Slope,Home,150
+Brooklyn,Gowanus,Home,190
+Manhattan,East Harlem,Home,124
+Brooklyn,Williamsburg,Home,135
+Manhattan,Morningside Heights,Private,122
+Manhattan,Upper West Side,Private,109
+Manhattan,Harlem,Private,85
+Brooklyn,Bedford-Stuyvesant,Home,145
+Manhattan,Upper West Side,Home,195
+Brooklyn,Carroll Gardens,Home,250
+Brooklyn,Greenpoint,Private,125
+Manhattan,Little Italy,Home,575
+Manhattan,Upper West Side,Home,150
+Brooklyn,Bushwick,Private,70
+Manhattan,Inwood,Private,90
+Manhattan,East Village,Private,65
+Manhattan,East Village,Home,500
+Manhattan,Washington Heights,Home,250
+Manhattan,Chinatown,Home,125
+Manhattan,West Village,Home,200
+Brooklyn,Greenpoint,Home,229
+Bronx,Kingsbridge,Home,90
+Manhattan,Upper West Side,Home,110
+Brooklyn,Greenpoint,Private,59
+Brooklyn,Williamsburg,Home,195
+Brooklyn,Williamsburg,Home,169
+Manhattan,East Harlem,Home,113
+Manhattan,Harlem,Home,250
+Queens,Astoria,Home,115
+Brooklyn,Greenpoint,Private,55
+Brooklyn,Williamsburg,Private,69
+Manhattan,Lower East Side,Home,150
+Brooklyn,South Slope,Home,169
+Brooklyn,Greenpoint,Private,179
+Manhattan,Hell's Kitchen,Private,150
+Brooklyn,Boerum Hill,Home,135
+Brooklyn,Clinton Hill,Home,350
+Brooklyn,Williamsburg,Private,120
+Manhattan,East Village,Private,71
+Brooklyn,Greenpoint,Private,349
+Brooklyn,Greenpoint,Private,349
+Brooklyn,Park Slope,Home,165
+Brooklyn,Greenpoint,Private,249
+Brooklyn,Brooklyn Heights,Private,100
+Brooklyn,Brooklyn Heights,Home,200
+Manhattan,East Village,Home,169
+Brooklyn,Bedford-Stuyvesant,Home,185
+Brooklyn,Bushwick,Home,65
+Brooklyn,Fort Greene,Home,130
+Brooklyn,Williamsburg,Home,199
+Manhattan,East Village,Home,225
+Brooklyn,Greenpoint,Private,179
+Brooklyn,Crown Heights,Home,150
+Manhattan,East Village,Home,139
+Manhattan,Two Bridges,Private,95
+Brooklyn,Crown Heights,Home,79
+Manhattan,Lower East Side,Home,150
+Brooklyn,Clinton Hill,Home,650
+Brooklyn,Bedford-Stuyvesant,Home,90
+Brooklyn,Bedford-Stuyvesant,Home,120
+Queens,Astoria,Private,80
+Brooklyn,Crown Heights,Home,100
+Brooklyn,Bedford-Stuyvesant,Home,175
+Brooklyn,Crown Heights,Home,120
+Brooklyn,Williamsburg,Home,140
+Brooklyn,Bedford-Stuyvesant,Home,200
+Brooklyn,Clinton Hill,Private,165
+Manhattan,Kips Bay,Home,125
+Manhattan,Chelsea,Home,130
+Manhattan,East Harlem,Shared room,65
+Brooklyn,Fort Greene,Home,123
+Manhattan,Washington Heights,Private,67
+Queens,Queens Village,Private,50
+Brooklyn,Gowanus,Home,130
+Brooklyn,Williamsburg,Private,100
+Manhattan,Upper West Side,Home,212
+Brooklyn,Williamsburg,Home,190
+Brooklyn,Greenpoint,Private,599
+Manhattan,East Village,Home,249
+Queens,Rockaway Beach,Private,70
+Brooklyn,Crown Heights,Home,100
+Manhattan,Harlem,Private,60
+Brooklyn,Bedford-Stuyvesant,Home,135
+Brooklyn,Greenpoint,Home,175
+Manhattan,Upper West Side,Home,120
+Manhattan,Midtown,Home,169
+Brooklyn,Crown Heights,Home,165
+Manhattan,Harlem,Private,90
+Manhattan,Upper East Side,Home,225
+Brooklyn,Fort Greene,Private,95
+Brooklyn,Crown Heights,Private,55
+Manhattan,Hell's Kitchen,Private,85
+Brooklyn,South Slope,Home,199
+Manhattan,Lower East Side,Home,211
+Manhattan,Midtown,Home,145
+Manhattan,Harlem,Private,65
+Manhattan,Harlem,Home,99
+Queens,Astoria,Home,110
+Brooklyn,Crown Heights,Home,80
+Brooklyn,Brooklyn Heights,Home,150
+Brooklyn,Bedford-Stuyvesant,Home,110
+Manhattan,Chelsea,Private,290
+Manhattan,East Village,Private,87
+Brooklyn,Williamsburg,Home,190
+Brooklyn,Williamsburg,Home,200
+Brooklyn,Park Slope,Home,165
+Manhattan,Harlem,Home,110
+Manhattan,East Village,Home,395
+Brooklyn,Bedford-Stuyvesant,Private,99
+Brooklyn,Kensington,Private,39
+Manhattan,East Village,Home,189
+Manhattan,Upper West Side,Private,85
+Brooklyn,Gowanus,Home,260
+Manhattan,Harlem,Home,122
+Brooklyn,Greenpoint,Home,165
+Queens,Forest Hills,Home,97
+Manhattan,West Village,Home,170
+Brooklyn,Williamsburg,Home,125
+Manhattan,Murray Hill,Private,130
+Brooklyn,Williamsburg,Home,225
+Brooklyn,East Flatbush,Private,50
+Brooklyn,Fort Greene,Home,170
+Manhattan,Chelsea,Home,132
+Brooklyn,Park Slope,Home,250
+Brooklyn,Greenpoint,Home,141
+Brooklyn,Crown Heights,Home,64
+Brooklyn,Williamsburg,Home,249
+Brooklyn,Crown Heights,Private,79
+Manhattan,East Village,Home,185
+Brooklyn,Boerum Hill,Home,120
+Brooklyn,Park Slope,Home,495
+Manhattan,Nolita,Home,375
+Manhattan,Nolita,Home,175
+Manhattan,East Village,Home,150
+Manhattan,Harlem,Home,259
+Manhattan,East Village,Private,96
+Brooklyn,Williamsburg,Home,145
+Manhattan,Chelsea,Home,200
+Manhattan,Upper West Side,Home,95
+Brooklyn,Windsor Terrace,Home,250
+Manhattan,Harlem,Home,295
+Manhattan,Greenwich Village,Home,175
+Brooklyn,Williamsburg,Home,451
+Manhattan,Upper West Side,Home,165
+Manhattan,Upper East Side,Home,250
+Bronx,Woodlawn,Home,77
+Manhattan,Lower East Side,Home,250
+Queens,Astoria,Home,129
+Brooklyn,Williamsburg,Private,98
+Brooklyn,Park Slope,Home,150
+Manhattan,East Village,Private,95
+Manhattan,Harlem,Private,55
+Manhattan,Harlem,Home,300
+Queens,Sunnyside,Private,42
+Brooklyn,Greenpoint,Home,125
+Manhattan,East Village,Private,175
+Manhattan,Harlem,Private,75
+Brooklyn,Williamsburg,Home,255
+Brooklyn,Bedford-Stuyvesant,Home,72
+Brooklyn,Bedford-Stuyvesant,Private,165
+Brooklyn,Williamsburg,Home,165
+Brooklyn,Clinton Hill,Private,75
+Brooklyn,Greenpoint,Home,130
+Brooklyn,Williamsburg,Home,139
+Brooklyn,Bedford-Stuyvesant,Private,88
+Brooklyn,Bedford-Stuyvesant,Private,80
+Manhattan,Chelsea,Private,150
+Manhattan,Upper West Side,Home,200
+Manhattan,East Village,Home,200
+Queens,Sunnyside,Private,42
+Brooklyn,Williamsburg,Private,90
+Manhattan,Harlem,Home,295
+Brooklyn,Williamsburg,Home,450
+Brooklyn,Crown Heights,Home,130
+Brooklyn,Williamsburg,Private,89
+Manhattan,Harlem,Home,198
+Manhattan,East Village,Home,99
+Brooklyn,Greenpoint,Private,46
+Manhattan,SoHo,Private,140
+Brooklyn,Carroll Gardens,Home,500
+Manhattan,Morningside Heights,Private,75
+Queens,Sunnyside,Private,33
+Manhattan,Upper West Side,Home,250
+Brooklyn,Bushwick,Private,60
+Manhattan,Washington Heights,Private,75
+Brooklyn,Carroll Gardens,Home,350
+Manhattan,Chelsea,Home,205
+Brooklyn,Park Slope,Home,219
+Brooklyn,Park Slope,Private,60
+Manhattan,Upper West Side,Home,185
+Manhattan,East Village,Home,190
+Brooklyn,South Slope,Home,105
+Manhattan,East Harlem,Home,250
+Manhattan,Upper West Side,Home,175
+Manhattan,Harlem,Private,65
+Brooklyn,Bedford-Stuyvesant,Home,75
+Bronx,University Heights,Private,37
+Brooklyn,Williamsburg,Home,85
+Brooklyn,Gravesend,Home,106
+Manhattan,East Harlem,Home,79
+Brooklyn,Fort Greene,Private,85
+Manhattan,Harlem,Private,170
+Manhattan,Lower East Side,Private,115
+Manhattan,Harlem,Private,89
+Manhattan,Harlem,Shared room,49
+Brooklyn,Greenpoint,Private,91
+Manhattan,Gramercy,Home,400
+Brooklyn,Bushwick,Home,150
+Manhattan,Upper West Side,Home,2000
+Brooklyn,Crown Heights,Home,97
+Manhattan,East Village,Private,100
+Brooklyn,Williamsburg,Home,179
