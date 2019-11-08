@@ -1,0 +1,9 @@
+body {
+  margin: 16px;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+#issMap {
+  height: 450px;
+}
