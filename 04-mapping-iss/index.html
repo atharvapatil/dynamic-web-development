@@ -18,26 +18,16 @@
 <body>
   <script src="./index.js"></script>
 
-
-
   <h1>Where is the ISS at?</h1>
-<div class="flex-box">
+  <div class="flex-box">
+    <div class="flex-item">Latitude: <span id="lat"></span>°</div>
+    <div class="flex-item">Longitude: <span id="lon"></span>°</div>
+    <div class="flex-item">Velocity: <span id="velocity"></span> km/hr</div>
+    <div class="flex-item">Local time: <span id="time"></span></div>
+  </div>
 
-  <div class="flex-item">Latitude: <span id="lat"></span>°</div>
-  <div class="flex-item">Longitude: <span id="lon"></span>°</div>
-  <div class="flex-item">Velocity: <span id="velocity"></span> KM/hr</div>
-  <div class="flex-item">Local time: <span id="time"></span></div>
-  <!-- <p>
-
-
-     <br />
-    l <br />
-  </p> -->
-
-</div>
-
-  <div id="issMap"></div>
-
+  <div id="issMap">
+  </div>
 
 </body>
 
